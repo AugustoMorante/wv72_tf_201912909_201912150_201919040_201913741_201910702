@@ -11,6 +11,7 @@ Para la entrega de este proyecto, se decidió dividir por tareas o asignaciones 
     José Roncal Mejía  ->	 Espacio de búsqueda
     Katerin Villalobos Curichimba  -> 	Dataset con especificaciones
     Klaus Mollan Neyra  -> 	Reporte de actividades
+    
 
 -	Algoritmos por usar por cada integrante: 
 
