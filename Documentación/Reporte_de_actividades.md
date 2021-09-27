@@ -14,8 +14,7 @@ Para la entrega de este proyecto, se decidió dividir por tareas o asignaciones 
 
 -	Algoritmos por usar por cada integrante: 
 Por otro lado, los algoritmos fueron asignados según preferencia de cada uno de los integrantes del grupo. Por lo que, la distribución de estas terminó de la siguiente forma: 
-
- - Responsable	Algoritmo
+ 
     Augusto Morante Castañeda  ->	 Búsqueda en anchura (BFS)
     Gianella Coronel Manchego  ->	 Backtracking
     José Roncal Mejía	 ->  Dijkstra
