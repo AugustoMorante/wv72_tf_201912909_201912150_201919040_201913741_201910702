@@ -1,4 +1,4 @@
-#Reporte de Actividades 
+Reporte de Actividades 
 
 -	Tareas por realizar en la entrega del TP:
 
@@ -7,10 +7,16 @@ Para la entrega de este proyecto, se decidió dividir por tareas o asignaciones 
  - Responsable	Asignaciones por realizar
 
     Augusto Morante Castañeda	 ->  Espacio de búsqueda
+    
     Gianella Coronel Manchego	 ->  Dataset con especificaciones
+    
     José Roncal Mejía  ->	 Espacio de búsqueda
+    
     Katerin Villalobos Curichimba  -> 	Dataset con especificaciones
+    
     Klaus Mollan Neyra  -> 	Reporte de actividades
+    
+    
     
 
 -	Algoritmos por usar por cada integrante: 
