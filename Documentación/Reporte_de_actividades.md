@@ -13,6 +13,7 @@ Para la entrega de este proyecto, se decidió dividir por tareas o asignaciones 
     Klaus Mollan Neyra  -> 	Reporte de actividades
 
 -	Algoritmos por usar por cada integrante: 
+
 Por otro lado, los algoritmos fueron asignados según preferencia de cada uno de los integrantes del grupo. Por lo que, la distribución de estas terminó de la siguiente forma: 
  
     Augusto Morante Castañeda  ->	 Búsqueda en anchura (BFS)
