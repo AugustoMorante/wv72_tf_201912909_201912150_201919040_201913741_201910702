@@ -1,8 +1,8 @@
 ## Descripción de vehículos
 
-*Marcas de vehículos: GMC, ISUZU TRUNK
-*Combustible: gasolina 
-*Tipo de vehículo: furgoneta , camión
+* Marcas de vehículos: GMC, ISUZU TRUNK
+* Combustible: gasolina 
+* Tipo de vehículo: furgoneta , camión
 
 ## Calculo de costos (tiempo x distancia)
 
