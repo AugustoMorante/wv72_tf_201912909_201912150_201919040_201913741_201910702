@@ -18,7 +18,6 @@ Ej:
 
 **Cálculo:**
 distancia x tiempo = 40 x 5 = 200 km/h 
-        
 
 
 
