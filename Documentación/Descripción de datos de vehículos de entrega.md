@@ -1,10 +1,10 @@
-##Descripción de vehículos
+## Descripción de vehículos
 
-* Marcas de vehículos: GMC, ISUZU TRUNK
-* Combustible: gasolina 
-* Tipo de vehículo: furgoneta , camión
+*Marcas de vehículos: GMC, ISUZU TRUNK
+*Combustible: gasolina 
+*Tipo de vehículo: furgoneta , camión
 
-##Calculo de costos (tiempo x distancia)
+## Calculo de costos (tiempo x distancia)
 
 Para calcular el costo de la trayectoria del vehículo al realizar
 una entrega, se debe tomar en cuenta la distancia entre el punto de 
