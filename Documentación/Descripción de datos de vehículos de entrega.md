@@ -1,8 +1,8 @@
 ## Descripción de vehículos
 
-* Marcas de vehículos: GMC, ISUZU TRUNK
-* Combustible: gasolina 
-* Tipo de vehículo: furgoneta , camión
+* **Marcas de vehículos:** GMC, ISUZU TRUNK
+* **Combustible:** gasolina 
+* **Tipo de vehículo:** furgoneta , camión
 
 ## Calculo de costos (tiempo x distancia)
 
@@ -13,10 +13,10 @@ destino y el recorrido de regreso.
 
 Ej: 
   * Almacén (A) -> Punto de entrega (B)
-  * Distancia total recorrida: 40 km
-  * Tiempo de ida y vuelta: 5 horas
+  * **Distancia total recorrida:** 40 km
+  * **Tiempo de ida y vuelta:** 5 horas
 
-Cálculo: 
+**Cálculo:**
 distancia x tiempo
 40 x 5 = 200 km/h 
         
