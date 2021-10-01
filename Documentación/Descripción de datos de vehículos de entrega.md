@@ -12,13 +12,12 @@ entrega y el almacén. Además, el tiempo que se demora en llegar a su
 destino y el recorrido de regreso. 
 
 Ej: 
-  * Almacén (A) -> Punto de entrega (B)
+  Almacén (A) -> Punto de entrega (B)
   * **Distancia total recorrida:** 40 km
   * **Tiempo de ida y vuelta:** 5 horas
 
 **Cálculo:**
-distancia x tiempo
-40 x 5 = 200 km/h 
+distancia x tiempo = 40 x 5 = 200 km/h 
         
 
 
