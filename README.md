@@ -6,3 +6,5 @@ Trabajo parcial/final de complejidad algoritmica
   - Morante Castañeda, Augusto
   - Roncal Mejía, José
   - Villalobos Curichimba, Katerin
+### Video del reporte de actividades
+  - https://youtu.be/LFIj6b6bKPE
