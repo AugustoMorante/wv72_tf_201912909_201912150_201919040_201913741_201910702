@@ -11,15 +11,10 @@
 ## Posible orden de complejidad
 
 Para Backtracking, su posible orden de complejidad puede ser:
-
-![Image of O](https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/OrdenComplejidad.png)
-
 <p align="center">
   <img src="https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/OrdenComplejidad.png" alt="Sublime's custom image"/>
 </p>
 
 Donde:
-
 a: Son las posibles opciones que hay en cada etapa.
-
 n: Número de etapas que se toman para hallar la solución
