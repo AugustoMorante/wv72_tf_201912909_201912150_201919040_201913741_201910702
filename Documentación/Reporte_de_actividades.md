@@ -1,4 +1,4 @@
-Reporte de Actividades 
+## Reporte de Actividades 
 
 -	Tareas por realizar en la entrega del TP:
 
@@ -15,7 +15,6 @@ Para la entrega de este proyecto, se decidió dividir por tareas o asignaciones 
     Katerin Villalobos Curichimba  -> 	Dataset con especificaciones
     
     Klaus Mollan Neyra  -> 	Reporte de actividades
-    
     
     
 
