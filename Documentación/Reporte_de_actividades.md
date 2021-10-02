@@ -26,7 +26,7 @@ Por otro lado, los algoritmos fueron asignados según preferencia de cada uno de
     Augusto Morante Castañeda  ->	 Búsqueda en anchura (BFS)
     Gianella Coronel Manchego  ->	 Backtracking
     José Roncal Mejía	 ->  Dijkstra
-    Katerin Villalobos Curichimba	 ->  Divide y vencerás
+    Katerin Villalobos Curichimba	 ->  Fuerza Bruta
     Klaus Mollan Neyra	 ->  Búsqueda en profundidad (DFS)
 
 
