@@ -25,8 +25,10 @@ Por otro lado, los algoritmos fueron asignados según preferencia de cada uno de
     Augusto Morante Castañeda  ->	 Búsqueda en anchura (BFS)
     Gianella Coronel Manchego  ->	 Backtracking
     José Roncal Mejía	 ->  Dijkstra
-    Katerin Villalobos Curichimba	 ->  Fuerza Bruta
+    Katerin Villalobos Curichimba	 ->  Fuerza Bruta *
     Klaus Mollan Neyra	 ->  Búsqueda en profundidad (DFS)
+
+*El algoritmo de "Divide y venceras" fue cambiado con el que estara trabajando actualmente que es el de "Fuerza Bruta".
 
 
 Cabe recordar que las tareas asignadas tuvieron un plazo máximo para que así todos los integrantes puedan validar que la información proporcionada por cada uno de los integrantes 
