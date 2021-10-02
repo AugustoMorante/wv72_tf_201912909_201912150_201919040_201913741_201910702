@@ -1,5 +1,3 @@
-Definir algoritmo integrante 3 en alto nivel con posible análisis asintótico.
-
 # Algoritmo Backtracking
 
 ## Implementación de Pseudocódigo
@@ -7,8 +5,7 @@ Definir algoritmo integrante 3 en alto nivel con posible análisis asintótico.
 1. Comenzaremos con un grafo que será la distribución tanto de los almacenes como los puntos de distribución
 2. Con el algoritmo Backtracking, tomaremos el nodo de un almacén para que encuentre la mejor solución para realizar su recorrido al punto de distribución.
 
-![Image of Diagram]
-(https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/Diagrama_Flujo.png)
+![Image of Diagram](https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/Diagrama_Flujo.png)
 
 
 ## Posible orden de complejidad
