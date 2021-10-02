@@ -1,6 +1,6 @@
 # Algoritmo Fuerza Bruta
 
-## Implementación de Diagrama de Flujo
+## Implementación del Diagrama de Flujo
 
 * Con el algoritmo de Fuerza Bruta, tomaremos el nodo en la posición inicial y final para hallar la ruta mínima. Y de esta manera, poder encontrar la mejor solución y distancia entre cada punto. 
 
