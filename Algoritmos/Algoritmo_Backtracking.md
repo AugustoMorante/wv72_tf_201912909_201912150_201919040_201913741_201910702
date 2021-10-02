@@ -14,6 +14,8 @@ Para Backtracking, su posible orden de complejidad puede ser:
 
 ![Image of O](https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/OrdenComplejidad.png)
 
+<img align="center" src="https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/OrdenComplejidad.png">
+
 Donde:
 
 a: Son las posibles opciones que hay en cada etapa.
