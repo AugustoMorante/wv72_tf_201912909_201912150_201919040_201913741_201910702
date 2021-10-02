@@ -1,4 +1,4 @@
-# ALGORITMO DE DEPTH FIRST SEARCH (BFS)
+# ALGORITMO DE DEPTH FIRST SEARCH (DFS)
 
 ## Implementación en pseudocódigo
 
