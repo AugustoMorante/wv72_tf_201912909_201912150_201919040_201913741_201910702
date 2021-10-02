@@ -1,4 +1,4 @@
-# Algoritmo Backtracking
+# Algoritmo Fuerza Bruta
 
 ## Implementación de Diagrama de Flujo
 
