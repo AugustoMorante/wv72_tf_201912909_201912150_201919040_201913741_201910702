@@ -2,7 +2,7 @@
 
 ## Implementación de Diagrama de Flujo
 
-1. Comenzaremos con un grafo que será la distribución tanto de los almacenes como los puntos de distribución
+1. Comenzaremos con un grafo que será la distribución tanto de los almacenes como los puntos de distribución.
 2. Con el algoritmo Backtracking, tomaremos el nodo de un almacén para que encuentre la mejor solución para realizar su recorrido al nodo del punto de distribución.
 
 
