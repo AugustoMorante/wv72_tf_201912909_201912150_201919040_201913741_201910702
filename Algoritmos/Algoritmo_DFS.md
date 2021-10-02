@@ -1,4 +1,8 @@
-# ALGORITMO DEPTH FIRST SEARCH (DFS)
+# ALGORITMO DE DEPTH FIRST SEARCH (DFS)
+
+## Concepto
+
+El algoritmo de DFS se va aplicar para organizar y para trazar un camino desde los almacenes hacia los puntos de distribucion que estaran presentes en el mapeado de ellos, su fin es la de resolver eficientemente el problema a traves de la ejecucion del algoritmo.
 
 ## Implementación en pseudocódigo
    
