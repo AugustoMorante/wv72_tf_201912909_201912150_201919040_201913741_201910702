@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/Diagrama_Flujo_.png" alt="Diagrama de flujo"/>
+  <img src="https://github.com/gianellacoronel2/ihc-front/blob/master/Imagen-OrdenComplejidad/Diagrama_Flujo_1.png" alt="Diagrama de flujo"/>
 </p>
 
 
