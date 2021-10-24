@@ -19,6 +19,7 @@
 # Posible orden de complejidad
 La complejidad de un bfs puede expresarse como:
 
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;O(|V|&plus;|E|)" title="O(|V|+|E|)" />
 
 $$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
 
