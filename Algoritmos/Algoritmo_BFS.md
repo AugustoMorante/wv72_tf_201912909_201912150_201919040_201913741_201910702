@@ -14,3 +14,19 @@
           visited[v] = verdadero
           parent[v] = u
           colocar al final de queue v 
+
+
+#Posible orden de complejidad
+La complejidad de un bfs puede expresarse como:
+
+
+$$O\left(|V| + |E|\right)$$ 
+
+Donde: 
+
+|V| es el número de nodos
+
+|E| es el número de aristas
+
+
+**El peor caso consistiría en que todos los nodos y aristas sean visitados durante la búsqueda.**
