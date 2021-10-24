@@ -16,11 +16,11 @@
           colocar al final de queue v 
 
 
-#Posible orden de complejidad
+# Posible orden de complejidad
 La complejidad de un bfs puede expresarse como:
 
 
-$$O\left(|V| + |E|\right)$$ 
+$$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
 
 Donde: 
 
