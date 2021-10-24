@@ -21,8 +21,6 @@ La complejidad de un bfs puede expresarse como:
 
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;O(|V|&plus;|E|)" title="\bg_white O(|V|+|E|)" />
 
-$$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
-
 Donde: 
 
 |V| es el número de nodos
