@@ -1,63 +1,16 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "Algoritmo BFS",
-      "provenance": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "1ur5h9GtDsL1"
-      },
-      "source": [
-        "## ALGORITMO DE BREADTH FIRST SEARCH (BFS)\n",
-        "\n",
-        "---\n",
-        "\n",
-        "\n",
-        "# Impletación en pseudocódigo\n",
-        "\n",
-        "    BFS(Grafo G, nodo_fuente s)\n",
-        "    n = tamaño de G \n",
-        "    parent = NULL\n",
-        "    visited = False\n",
-        "    queue = [s]\n",
-        "    visited[s] = True\n",
-        "\n",
-        "    Mientras queue no esté vacío hacer\n",
-        "      u = extraer_primero(queue)\n",
-        "      Por cada v en G[u] hacer\n",
-        "        Si visited[v] es falso hacer\n",
-        "          visited[v] = verdadero\n",
-        "          parent[v] = u\n",
-        "          colocar al final de queue v \n",
-        "\n",
-        "#Posible orden de complejidad\n",
-        "La complejidad de un bfs puede expresarse como:\n",
-        "\n",
-        "\n",
-        "$$O\\left(|V| + |E|\\right)$$ \n",
-        "\n",
-        "Donde: \n",
-        "\n",
-        "|V| es el número de nodos\n",
-        "\n",
-        "|E| es el número de aristas\n",
-        "\n",
-        "\n",
-        "**El peor caso consistiría en que todos los nodos y aristas sean visitados durante la búsqueda.**\n"
-      ]
-    }
-  ]
-}
+# Impletación en pseudocódigo
+
+    BFS(Grafo G, nodo_fuente s)
+    n = tamaño de G 
+    parent = NULL
+    visited = False
+    queue = [s]
+    visited[s] = True
+
+    Mientras queue no esté vacío hacer
+      u = extraer_primero(queue)
+      Por cada v en G[u] hacer
+        Si visited[v] es falso hacer
+          visited[v] = verdadero
+          parent[v] = u
+          colocar al final de queue v 
