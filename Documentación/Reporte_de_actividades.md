@@ -33,4 +33,4 @@ Por otro lado, los algoritmos fueron asignados según preferencia de cada uno de
 
 Cabe recordar que las tareas asignadas tuvieron un plazo máximo para que así todos los integrantes puedan validar que la información proporcionada por cada uno de los integrantes 
 sea la adecuada y al momento de entregar no haya ninguna disconformidad con la información escrita en el informe. Además, esta distribución se va a poder observar en los issues 
-que se encuentra en el GitHub del proyecto junto con los integrantes encargados sobre dicho tema.
+que se encuentra en el GitHub del proyecto junto con los integrantes encargados sobre dicho tema. 
