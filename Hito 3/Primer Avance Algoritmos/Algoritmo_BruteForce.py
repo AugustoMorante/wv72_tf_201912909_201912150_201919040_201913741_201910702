@@ -4,7 +4,7 @@ def BruteForce(G,s):
   visited=[False]*n
   m = a[s]
 
-  for i in range (len(a)):
+  for i in range (1,len(a)):
     if a[i] > m:
       m = a[i]
         return m
