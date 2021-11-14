@@ -7,7 +7,7 @@ def BruteForce(G,s):
   for i in range (len(a)):
     if a[i] > m:
       m = a[i]
-  return m
+        return m
     else:
       if not visited[s]:
         visited[s] = True
