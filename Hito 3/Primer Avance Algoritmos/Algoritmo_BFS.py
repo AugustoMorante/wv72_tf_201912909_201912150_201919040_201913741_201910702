@@ -1,4 +1,5 @@
 def bfs(G, s):
+  
   n = len(G)
   visited = [False]*n
   parent = [None]*n
