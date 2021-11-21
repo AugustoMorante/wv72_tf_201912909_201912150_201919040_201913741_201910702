@@ -11,5 +11,4 @@ def Backtracking(G, s):
         Backtracking1(v)
 
   Backtracking1(s)
-
   return f
