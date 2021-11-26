@@ -13,8 +13,6 @@ def bruteforce(G, s):
       for x in G[v]:
         tvisit.append(None)
         tvisit.append(x) 
-    else: 
-      visited.remove(parent.pop())
   return parent
 
 #Algoritmo Brute Force punto a punto 
