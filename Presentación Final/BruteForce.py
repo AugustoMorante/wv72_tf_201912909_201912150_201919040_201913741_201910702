@@ -1,35 +1,36 @@
 def bruteforce(G, s):
   n = len(G)
   tvisit = [None, s]
-  parent = []
+  path = []
   visited = [False]*n
   while(tvisit):
     v = tvisit.pop()
     if v : 
-      parent.append(v)
-      if len(parent) == n:
+      path.append(v)
+      if len(path) == n:
         break
       visited[v]
       for x in G[v]:
         tvisit.append(None)
         tvisit.append(x) 
-  return parent
+  return path
 
 #Algoritmo Brute Force punto a punto 
 
 def bfPointToPoint(G,s,t):
   n = len(G)
   tvisit = [None, s]
-  parent = []
+  path = []
   visited = [False]*n
   while(tvisit):
     v = tvisit.pop()
     if v : 
-      parent.append(v)
-      if len(parent) == n:
+      path.append(v)
+      if len(path) == n:
         break
       visited[v]
       for x in G[v]:
         tvisit.append(None)
         tvisit.append(x) 
-  return parent, parent[t]
+  return path, path[t]
+
