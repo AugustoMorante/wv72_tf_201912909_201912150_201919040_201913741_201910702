@@ -32,6 +32,4 @@ def bfPointToPoint(G,s,t):
       for x in G[v]:
         tvisit.append(None)
         tvisit.append(x) 
-    else: 
-      visited.remove(parent.pop())
   return parent, parent[t]
