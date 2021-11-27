@@ -10,3 +10,5 @@ Trabajo parcial/final de complejidad algoritmica
   - https://youtu.be/LFIj6b6bKPE
 ### Video de presentación del trabajo
   - https://youtu.be/qfTqvyoZ_7s
+### Presentación del proyecto
+  - https://docs.google.com/presentation/d/1QNIGBk3VrfJmXqvOgGI5HaFFwbSaC1MbQ9k8ap6Rh7M/edit?usp=sharing
