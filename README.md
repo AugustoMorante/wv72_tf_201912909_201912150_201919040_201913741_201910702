@@ -8,3 +8,5 @@ Trabajo parcial/final de complejidad algoritmica
   - Villalobos Curichimba, Katerin
 ### Video del reporte de actividades
   - https://youtu.be/LFIj6b6bKPE
+### Video de presentación del trabajo
+  - https://youtu.be/qfTqvyoZ_7s
