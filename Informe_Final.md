@@ -25,3 +25,54 @@ El algoritmo de Backtracking, también conocido como Vuelta atrás, es un tipo d
     - Donde:
     - a: Son las posibles opciones que hay en cada etapa.
     - n: Número de etapas que se toman para hallar la solución.
+### Resultados
+#### Solucion con DFS
+Para la solución del DFS, se trabaja con los siguientes algoritmos:
+~~~
+def dfsPointToPoint(G, s, t):
+    n = len(G)
+    visited = [False]*n
+    parent = [None]*n
+    stack = [s]
+
+    while stack and visited[t] == False:
+      u = stack.pop()
+      if not visited[u]:
+        visited[u] = True
+        for v in G[u]:
+          if not visited[v]:
+            parent[v] = u
+            stack.append(v)
+
+    return parent, parent[t]
+~~~
+~~~
+def showInfoDFS(G, source, target):
+    path,_ = dfsPointToPoint(G, source, target)
+    t = target
+    targetPath = []
+    targetPath.append(target)
+    targetPath.append(path[t])
+    while path[t] != source:
+      t = path[t]
+      targetPath.append(path[t])
+
+    truePath = path
+    for i in range(len(truePath)):
+      if i not in targetPath and i != target:
+        truePath[i] = None 
+
+    return targetPath, truePath, len(targetPath)-1
+~~~
+~~~
+def DFSPointToPointEdges(G, source, target):
+  path,_ = dfsPointToPoint(G, source, target)
+  t = target
+  targetPath = []
+  targetPath.append(target)
+  targetPath.append(path[t])
+  while path[t] != source:
+    t = path[t]
+    targetPath.append(path[t])
+  return len(targetPath)-1
+~~~
