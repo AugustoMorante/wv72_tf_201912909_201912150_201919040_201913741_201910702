@@ -140,9 +140,9 @@ def BFSPointToPointEdges(G, source, target):
   return len(targetPath)-1
 ~~~
 Almacenes analizados desde el 11 al 20:
-  - De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 17, con 14 entregas.
-  - El tiempo de ejecución con respecto a ese almacén fue de 1.42327 ms.
-  - El tiempo de ejecución promedio de los 10 almacenes fue de 5.03959 ms.
+	- De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 17, con 14 entregas.
+	- El tiempo de ejecución con respecto a ese almacén fue de 1.42327 ms.
+	- El tiempo de ejecución promedio de los 10 almacenes fue de 5.03959 ms.
 #### Solucion con DFS
 Para la solución del DFS, se trabaja con los siguientes algoritmos:
 ~~~
@@ -194,9 +194,9 @@ def DFSPointToPointEdges(G, source, target):
   return len(targetPath)-1
 ~~~
 Almacenes analizados desde el 41 al 50:
-  - De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 45.
-  - El tiempo de ejecución con respecto a ese almacén fue de 7865 ms.
-  - El tiempo de ejecución promedio de los 10 almacenes fue de 19700 ms.
+	- De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 45.
+	- El tiempo de ejecución con respecto a ese almacén fue de 7865 ms.
+	- El tiempo de ejecución promedio de los 10 almacenes fue de 19700 ms.
 #### Solucion con Brute Force
 Para la solución de Brute Force, se trabaja con los siguientes algoritmos:
 ~~~
@@ -248,9 +248,9 @@ def BFPointToPointEdges(G, source, target):
   return len(targetPath)-1
 ~~~
 Almacenes analizados desde el 31 al 40:
-  - De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 37.
-  - El tiempo de ejecución con respecto a ese almacén fue de 4462 ms.
-  - El tiempo de ejecución promedio de los 10 almacenes fue de 25900 ms.
+	- De los almacenes analizados, el resultado más corto, el cual debe realizar un menor recorrido en cuestión de distancia fue el del almacén 37.
+	- El tiempo de ejecución con respecto a ese almacén fue de 4462 ms.
+	- El tiempo de ejecución promedio de los 10 almacenes fue de 25900 ms.
 #### Solucion con Backtracking
 Para la solución de Backtracking, se trabaja con los siguientes algoritmos:
 ~~~
@@ -299,9 +299,9 @@ def BacktrackingPointToPointEdges(G, source, target):
   return len(targetPath)-1
 ~~~
 Almacenes analizados desde el 21 al 30:
-  - De los almacenes analizados, no se pudo sacar un resultado concreto, puesto que el recorrido que hace el backtracking es muy amplio para el grafo trabajado.
+	- De los almacenes analizados, no se pudo sacar un resultado concreto, puesto que el recorrido que hace el backtracking es muy amplio para el grafo trabajado.
 ### Conclusiones
 El algoritmo de Backtracking no es el idóneo, ya que no presenta el rendimiento suficiente para soportar el gráfico, y presenta una recursividad grande con la cantidad de datos brindados.
 ### Bibliografía
   - Peñaloza, Jorge (2010) Ruta más corta - Solución por fuerza bruta . [Recuperado de:http://jorgep.blogspot.com/2010/10/ruta-mas-corta-solucion-por-fuerza.html ]
-  - Wikipedia (s.f) Vuelta atrás. [Recuperado de: https://es.wikipedia.org/wiki/Vuelta_atr%C3%A1s]
+	- Wikipedia (s.f) Vuelta atrás. [Recuperado de: https://es.wikipedia.org/wiki/Vuelta_atr%C3%A1s]
